@@ -1,0 +1,103 @@
+{
+  "name": "tsx",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "^5.8.0",
+    "@material-ui/core": "^4.11.0",
+    "@testing-library/jest-dom": "^5.11.5",
+    "@testing-library/react": "^11.1.2",
+    "@testing-library/user-event": "^12.2.2",
+    "@types/jest": "^26.0.15",
+    "@types/jquery": "^3.5.4",
+    "@types/luxon": "^1.25.0",
+    "@types/material-ui": "^0.21.8",
+    "@types/node": "^12.19.4",
+    "@types/react": "^16.9.56",
+    "@types/react-clock": "^3.0.0",
+    "@types/react-dom": "^16.9.9",
+    "@types/react-map-gl": "^5.2.9",
+    "@types/react-router-dom": "^5.1.6",
+    "@types/react-select": "^3.0.26",
+    "@types/recompose": "^0.30.7",
+    "@types/yup": "^0.29.9",
+    "@xstate/react": "^1.0.2",
+    "ag-grid": "^18.1.2",
+    "ag-grid-community": "^24.1.0",
+    "ag-grid-react": "^24.1.1",
+    "antd": "^4.8.2",
+    "awesome-typescript-loader": "^5.2.1",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "craco-antd": "^1.19.0",
+    "craco-less": "^1.17.0",
+    "css-loader": "^5.0.1",
+    "deck.gl": "^8.3.6",
+    "eslint-loader": "^4.0.2",
+    "formik": "^2.2.5",
+    "immutable": "^4.0.0-rc.12",
+    "jquery": "^3.5.1",
+    "luma": "^0.2.1",
+    "luxon": "^1.25.0",
+    "mapbox-gl": "^1.12.0",
+    "material-ui": "^0.20.2",
+    "moment-timezone": "^0.5.32",
+    "node-sass": "^5.0.0",
+    "primeicons": "^4.0.0",
+    "primereact": "^5.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-bootstrap-timezone-picker": "^2.0.1",
+    "react-clock": "^3.0.0",
+    "react-confirm-alert": "^2.6.2",
+    "react-dom": "^17.0.1",
+    "react-map-gl": "^5.2.10",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "react-select": "^3.1.0",
+    "react-sizeme": "^2.6.12",
+    "recompose": "^0.30.0",
+    "sass-loader": "^10.1.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.1",
+    "styled-components": "^5.2.1",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^1.9.6",
+    "timezone-picker": "^2.0.0-1",
+    "topojson-client": "^3.1.0",
+    "web-vitals": "^0.2.4",
+    "xstate": "^4.14.0",
+    "yup": "^0.29.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.165",
+    "ts-loader": "^8.0.11",
+    "typescript": "^4.0.5",
+    "typings-for-css-modules-loader": "^1.7.0"
+  }
+}
